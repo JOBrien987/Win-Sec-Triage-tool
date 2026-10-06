@@ -1,0 +1,5 @@
+TimeCreated,Category,EventId,Severity,Score,User,SourceIp,Computer
+2026-10-05T21:14:03,Account Lockout,4740,Critical,90,jdoe,WS-23,DESKTOP-LAB
+2026-10-05T20:58:10,Suspicious PowerShell,4104,High,85,analyst,,DESKTOP-LAB
+2026-10-05T20:44:31,RDP Logon,4624,Medium,65,admin,192.168.1.52,DESKTOP-LAB
+2026-10-05T20:43:12,Failed Logon,4625,Medium,55,admin,192.168.1.52,DESKTOP-LAB
